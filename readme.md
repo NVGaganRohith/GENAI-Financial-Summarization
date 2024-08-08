@@ -91,12 +91,7 @@ cd <Environment Name>
 Installing pytesseract and poppler for your system (the installation steps differ for each OS).
 
 **For Windows:**
-You can directly download the files from the below link and extract them in the utils folder inside the environment folder.
-- [Download Files](https://drive.google.com/file/d/1yyTOfiY3mh--WA3W2GKmt1-GWu5LeBuj/view?usp=drive_link)
-
-Or
-
-You can manually go to GitHub and install them.
+You can manually go to GitHub and install them make sure they are also set in path.
 - TesseractOCR: [TesseractOCR GitHub](https://github.com/UB-Mannheim/tesseract/wiki) (Download latest version (5.4 preferred))
 - Poppler: [Poppler GitHub](https://github.com/oschwartz10612/poppler-windows/releases) (Download version 23 or later)
 
